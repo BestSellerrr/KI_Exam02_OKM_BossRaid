@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Saved/ShaderDebugInfo/PCD3D_SM6/MTL_MWAM_AutoMaterial_MASTER_d47e21415704249a/Default/FNaniteVertexFactory/TBasePassCSFNoLightMapPolicySkylight/0_da6b360e4376ae5d/DebugHash_f156c66d14f59e0234f7a2d38bf02ef3296a0a251122bbd70e4cf7c4cbde23bf
